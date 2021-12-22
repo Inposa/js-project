@@ -1,0 +1,26 @@
+{
+  "name": "Google",
+  "siege": {
+    "name": "Googlepley",
+    "place": "Montain View",
+    "state": "California, United States"
+  },
+  "founders": [
+    {
+      "name": "Larry Page",
+      "birthday": "26/03/1973",
+      "birthPlace": "East Lansing, Michigan"
+    },
+    {
+      "name": "Sergey Brin",
+      "birthday": "21/08/1973",
+      "birthPlace": "Moscou, URSS"
+    }
+  ],
+  "chiffreAffaire": [
+    { "annee": 2008, "montant": 16.49 },
+    { "annee": 2012, "montant": 37.97 },
+    { "annee": 2016, "montant": 89.46 },
+    { "annee": 2018, "montant": 136.2 }
+  ]
+}
